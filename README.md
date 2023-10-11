@@ -12,8 +12,8 @@ Don't forget to share because ?
 1. **Moocs** The massive open online courses.
 
 here we can apply  to take courses from best univerisities in the world throw coursera
-* [Apply for fincial aid](https://github.com/cs50inarabic/moocs/blob/master/Coursera%20Financial%20Aid-converted.pdf)
-* [Enroll on Coursera](https://github.com/cs50inarabic/moocs/blob/master/How%20to%20apply%20on%20Coursera.pdf)
+* [Apply for fincial aid](https://github.com/DoaaShaarawy/Better-Learning/blob/main/Coursera%20Financial%20Aid-converted.pdf)
+* [Enroll on Coursera](https://github.com/DoaaShaarawy/Better-Learning/blob/main/How%20to%20apply%20on%20Coursera.pdf)
 
 
 2. Learn how to Learn Mooc .
